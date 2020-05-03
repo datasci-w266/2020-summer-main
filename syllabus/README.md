@@ -24,7 +24,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 **Live Sessions:**
 * (Section 1) Tuesday 4 - 5:30p Pacific (Daniel Cer)
 * (Section 2) Tuesday 6:30 - 8p Pacific (Joachim Rahmfeld)
-* (Section 3) Wednesday 6:30 - 8p Pacific (Mike Tamir)
+* (Section 3) Wednesday 6:30 - 8p Pacific (Mike Tamir, Paul Spiegelhalter)
 * (Section 4) Friday 4 - 5:30p Pacific (Mark Butler)
 * (Section 5) Saturday 8 - 9:30a Pacific (Sid J Reddy)
 
@@ -144,7 +144,7 @@ will be released around the last live session of the week and due approximately 
     <li>Google Cloud
   </ul></td>
   <td></td>
-  <td>TBD</td>
+  <td>May 10</td>
 </tr>
 
 <tr> <!-- project proposal -->
