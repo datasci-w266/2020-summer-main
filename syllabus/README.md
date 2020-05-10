@@ -147,7 +147,15 @@ will be released around the last live session of the week and due approximately 
   <td></td>
   <td>May 10</td>
 </tr>
-
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment 1</strong>
+  <ul>
+    <li>Information Theory
+  </ul></td>
+  <td></td>
+  <td>May&nbsp;17</td>
+</tr>
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
   <td>
