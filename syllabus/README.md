@@ -30,13 +30,13 @@ Understanding language is fundamental to human interaction. Our brains have evol
 
 **Teaching Staff Office Hours:**
 
-* **Daniel Cer**: Wednesday at noon Pacific.
-* **Joachim Rahmfeld**: Wednesday at noon Pacific.
+* **Daniel Cer**: Thursday at 4pm PST
+* **Joachim Rahmfeld**: Wednesday at noon PST
 * **Mark Butler**: Friday immediately after his live session
 * **Sid J Reddy**: Saturday immediately after his live session
-* **Mike Tamir**: Wednesday immediately after his live session
-* **Drew Plant**: Monday 6pm - 7 PST
-* **Gurdit Chahal**: TBD
+* **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
+* **Drew Plant**: Monday at 6pm PST
+* **Gurdit Chahal**: Tuesday at 6pm PST 
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
