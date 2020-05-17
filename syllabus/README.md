@@ -107,7 +107,7 @@ We’ll be posting materials to the course [GitHub repo](../../../).
 The course will be taught in Python, and we'll be making heavy use of NumPy, TensorFlow, and Jupyter (IPython) notebooks. We'll also be using Git for distributing and submitting materials. If you want to brush up on any of these, we recommend:
 * **Git tutorials:** [Introduction / Cheat Sheet](https://git-scm.com/docs/gittutorial), or [interactive tutorial](https://try.github.io/)
 * **Python / NumPy:** Stanford's CS231n has [an excellent tutorial](http://cs231n.github.io/python-numpy-tutorial/).
-* **TensorFlow:** We'll go over the basics of TensorFlow in [Assignment 2](../../../tree/master/assignment/a2/).  
+* **TensorFlow:** We'll go over the basics of TensorFlow and Keras in [Assignment 2](../../../tree/master/assignment/a2/).  
   [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) is a great reference, ranging from the absolute basics through advanced topics like multi-GPU training, `tf.learn`, and debugging.  
   You can also check out the [tutorials](https://www.tensorflow.org/get_started/) on the TensorFlow website, but these can be somewhat confusing if you're not familiar with the underlying models.
 
@@ -155,6 +155,15 @@ will be released around the last live session of the week and due approximately 
   </ul></td>
   <td></td>
   <td>May&nbsp;17</td>
+</tr>
+<tr>  <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment 2</strong>
+  <ul>
+    <li>Neural Networks
+  </ul></td>
+  <td></td>
+  <td>May&nbsp;24</td>
 </tr>
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
