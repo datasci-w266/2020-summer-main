@@ -165,6 +165,16 @@ will be released around the last live session of the week and due approximately 
   <td></td>
   <td>May&nbsp;24</td>
 </tr>
+i<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Embeddings
+    <li>ML Fairness
+  </ul></td>
+  <td></td>
+  <td>May&nbsp;31</td>
+</tr>
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
   <td>
@@ -237,8 +247,6 @@ will be released around the last live session of the week and due approximately 
   </ul></td>
   <td><ul>
   <li>Skim: <a href="http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf" target="_blank">Opinion Mining and Sentiment Analysis</a> (Pang and Lee 2008) - focus on Chapters 1-4
-  <li>Read: <a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/" target="_blank">Understanding Convolutional Neural Networks for NLP</a>
-  <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a> (Yoon Kim, 2014)
   <li><em>Optional:</em> <a href="https://arxiv.org/pdf/1103.0398v1.pdf" target="_blank">Natural Language Processing (almost) from Scratch</a> (Collobert et al., 2011)
 </tr>
 <tr><!--- Sentiment/Classification -->
@@ -250,7 +258,10 @@ will be released around the last live session of the week and due approximately 
   <td><ul>
   <li>Convolutional neural networks for NLP
   </ul></td>
-  <td></td>
+  <td><ul>
+  <li>Read: <a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/" target="_blank">Understanding Convolutional Neural Networks for NLP</a>
+  <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a> (Yoon Kim, 2014)
+</ul></td>
 </tr>
 <tr><!--- n-grams -->
   <td><strong>Week&nbsp;5</strong><br>(June&nbsp;1)</td>
