@@ -248,6 +248,7 @@ i<tr> <!-- a3 -->
   <td><ul>
   <li>Skim: <a href="http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf" target="_blank">Opinion Mining and Sentiment Analysis</a> (Pang and Lee 2008) - focus on Chapters 1-4
   <li><em>Optional:</em> <a href="https://arxiv.org/pdf/1103.0398v1.pdf" target="_blank">Natural Language Processing (almost) from Scratch</a> (Collobert et al., 2011)
+    <li><em>Optional / fun:</em> <a href="http://playground.tensorflow.org/" target="_blank">Tensorflow Playground</a>
 </tr>
 <tr><!--- Sentiment/Classification -->
   <td><strong>Week&nbsp;4</strong><br>(May&nbsp;25)</td>
@@ -266,7 +267,8 @@ i<tr> <!-- a3 -->
 <tr><!--- n-grams -->
   <td><strong>Week&nbsp;5</strong><br>(June&nbsp;1)</td>
   <td>Language Modeling I,
-  <br>4.1-4.4, 4.8 - 4.11</td>
+  <br>4.1-4.4, 4.12 - 4.17,
+  <br>5.8, 5.11</td>
   <td><ul>
     <li>LM applications
     <li>N-gram models
@@ -284,16 +286,16 @@ i<tr> <!-- a3 -->
   </ul>
   <p>
   <a href="../materials/simple_lm/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a>
+  <p>
   Distributed representations:<ul>
-  <li>Read: <a href="https://www.aclweb.org/anthology/J92-4003" target="_blank">Brown Clustering</a> (Brown et al. 1992)
+  <li><em>Optional:</em> <a href="https://www.aclweb.org/anthology/J92-4003" target="_blank">Brown Clustering</a> (Brown et al. 1992)
   <li>Read: <a href="http://arxiv.org/pdf/1301.3781.pdf" target="_blank">CBOW and SkipGram</a> (Mikolov et al. 2013)
   <li><em>Optional:</em> <a href="http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/" target="_blank">Deep Learning, NLP, and Representations</a> (Chris Olah's blog)
-  <li><em>Optional:</em> <a href="https://www.tensorflow.org/versions/master/tutorials/word2vec/index.html" target="_blank">Tensorflow Word2Vec Tutorial</a> (just the parts on <a href="https://github.com/tensorflow/tensorflow/blob/r0.10/tensorflow/examples/tutorials/word2vec/word2vec_basic.py" target="_blank">word2vec_basic.py</a> - don’t bother with the “Optimizing the Implementation” part or anything in C++)
-  <li><em>Optional:</em> <a href="https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/" target="_blank">How Vector Space Mathematics Reveals the Hidden Sexism in Language</a> (and the <a href="http://arxiv.org/abs/1607.06520" target="_blank">original paper</a>)
+  <li>Read: <a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a> (Bengio et al. 2003)
   </ul>
   <p>
   <a href="../materials/embeddings/embeddings.ipynb" target="_blank">[Word&nbsp;Embeddings&nbsp;Notebook]</a>
-  <a href="http://projector.tensorflow.org/" target="_blank">[TensorFlow&nbsp;Embedding&nbsp;Projector]</a>
+  <br><a href="../materials/nplm/nplm.ipynb" target="_blank">[NPLM Notebook]</a>
   </td>
 </tr>
 <tr><!--- Neural language models -->
@@ -304,15 +306,13 @@ i<tr> <!-- a3 -->
   <li>State of the art: Advanced Embeddings and Transfer Learning
   </ul></td>
   <td><ul>
-  <li>Read: <a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a> (Bengio et al. 2003)
-  <li>Read or skim: <a href="http://neuralnetworksanddeeplearning.com/chap2.html" target="_blank">How the backpropagation algorithm works</a>
-  <li><em>Optional:</em> <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM Networks</a> (Chris Olah's blog)
+  <li><em>Read or skim:</em> <a href="http://neuralnetworksanddeeplearning.com/chap2.html" target="_blank">How the backpropagation algorithm works</a>
+  <li>Read: <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM Networks</a> (Chris Olah's blog)
+    <li><em>Optional:</em> <a href="https://arxiv.org/pdf/1802.05365.pdf" target="_blank">”Deep contextualized word representations”</a>, (Peters et al, 2018)
   <li><em>Optional (skim):</em> <a href="https://www.tensorflow.org/versions/master/tutorials/recurrent/index.html#recurrent-neural-networks" target="_blank">Tensorflow LSTM Language Model Tutorial</a>
-  <li><em>Optional / fun:</em> <a href="http://playground.tensorflow.org/" target="_blank">Tensorflow Playground</a>
   </ul>
   <p>
   <p>
-  <a href="../materials/nplm/nplm.ipynb" target="_blank">[NPLM Notebook]</a>
   </td>
 </tr>
 <tr><!--- Extra Material -->
@@ -324,15 +324,16 @@ i<tr> <!-- a3 -->
   <li>Sentence splitting
   </ul></td>
   <td><ul>
-  <li>Skim: <a href="http://www.nltk.org/book/ch03.html" target="_blank">NLTK book chapter 3</a> (processing raw text)
-  <li>Skim: <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data</a> (Peter Norvig) <em>(if you didn't read in Week 2)</em>
+  <li><em>Skim:</em> <a href="http://www.nltk.org/book/ch03.html" target="_blank">NLTK book chapter 3</a> (processing raw text)
+  <li><em>Skim:</em> <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data</a> (Peter Norvig) <em>(if you didn't read in Week 2)</em>
   <li>Read: <a href="http://u.cs.biu.ac.il/~89-680/gillick2009.pdf" target="_blank">Sentence Boundary Detection and the Problem with the U.S.</a>
   <p>
   </ul></td>
 </tr>
 <tr><!--- Week 7 and 8 -->
   <td><strong>Week&nbsp;7</strong><br>(June&nbsp;15)</td>
-  <td>Machine Translation I</td>
+  <td>Machine Translation I
+  <br>Machine Translation II</td>
   <td><ul>
   <li>Word- and phrase-based MT
   <li>IBM alignment models
@@ -347,13 +348,16 @@ i<tr> <!-- a3 -->
   </ul></td>
     <tr><!--- Transformers  week 8-->
   <td><strong>Week&nbsp;8</strong><br>(June&nbsp;22)</td>
-  <td>Machine Translation II</td>
+  <td>No Async</td>
   <td><ul>
   <li>Self-Attention
   <li>Transformers
   <li>Transfer Learning
   </ul></td>
   <td><ul>
+  <li><em>Read (skim):</em> <a href="https://arxiv.org/pdf/1802.05365.pdf" target="_blank">Attention is All You Need</a> (Vaswani et. al., 2017)
+ <li><em>Read (skim):</em> <a href="https://arxiv.org/pdf/1810.04805v1.pdf" target="_blank">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding”</a>, (Devlin et al, 2018)
+ <li><em>Read (skim):</em> <a href="https://jalammar.github.io/illustrated-bert/" target="_blank">The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)”</a>, (Alammar, 2018)
   </ul>
   <p>
   </td>
