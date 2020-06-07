@@ -165,7 +165,7 @@ will be released around the last live session of the week and due approximately 
   <td></td>
   <td>May&nbsp;24</td>
 </tr>
-i<tr> <!-- a3 -->
+<tr> <!-- a3 -->
   <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
   <td><strong>Assignment 3</strong>
   <ul>
@@ -183,7 +183,16 @@ i<tr> <!-- a3 -->
   <td></td>
   <td>June&nbsp;7</td>
 </tr>
-
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Classification
+    <li>Convolutional Neural Nets
+  </ul></td>
+  <td></td>
+  <td>June&nbsp;14</td>
+</tr>
 <tr><!--- Project Reports -->
   <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>
   </td>
